@@ -30,3 +30,7 @@ You can control the recording process with simple key presses.
 6. Extended use: Incorporate in script designs for writing out `.wav` and clipping from timestamp etc.
 
 Have fun!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](license.md) file for details.
