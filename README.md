@@ -5,12 +5,20 @@ A simple tool for quickly recording sounds using MATLAB&reg; command window.
 You can control the recording process with simple key presses.
 
 > Sound Recorder
+>
 >  CONTROLLER KEYS
+>
 >  s --> Start
+>
 >  p --> Pause/Resume
+>
 >  t --> Add Timestamp (ROI)
+>
 >  d --> Interim Data
+>
 >  x --> Stop and get data
+>
+> 
 
 1. Call `displayAudioDeviceInfo` function to list the available inputs and outputs.
 
